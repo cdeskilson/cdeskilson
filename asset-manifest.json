@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/cdeskilson/static/js/main.67112100.chunk.js",
+    "main.js.map": "/cdeskilson/static/js/main.67112100.chunk.js.map",
+    "runtime-main.js": "/cdeskilson/static/js/runtime-main.28af7837.js",
+    "runtime-main.js.map": "/cdeskilson/static/js/runtime-main.28af7837.js.map",
+    "index.html": "/cdeskilson/index.html",
+    "precache-manifest.93d6b82cf0f3fc18db2a199b027f11ed.js": "/cdeskilson/precache-manifest.93d6b82cf0f3fc18db2a199b027f11ed.js",
+    "service-worker.js": "/cdeskilson/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28af7837.js",
+    "static/js/main.67112100.chunk.js"
+  ]
+}
