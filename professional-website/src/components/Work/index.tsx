@@ -11,7 +11,7 @@ export default function Work(props) {
       <ul>
         {config.map(publication =>
           <li>
-            <a href={publication.link} target="_blank">{publication.name}</a>
+            <a href={publication.link} target="_blank" rel="noopener noreferrer">{publication.name}</a>
           </li>
         )}
       </ul>
