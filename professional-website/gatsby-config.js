@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `CD Eskilson`,
+    description: `Born and raised in Southern California, CD Eskilson is a queer nonbinary poet, editor, and educator.`,
+    author: `CD Eskilson`,
   },
   plugins: [
     `gatsby-plugin-typescript`,

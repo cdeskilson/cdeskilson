@@ -1,5 +1,7 @@
 import React from "react"
 import styled from "@emotion/styled"
+import Navbar from "../Navbar"
+import image from "../../../assets/portrait-bw.jpg"
 
 const Container = styled.div`
   font-family: "Open Sans", sans-serif;
@@ -12,29 +14,37 @@ const Container = styled.div`
   }
 `
 
+const ImageContainer = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 28px;
+`
+
 const BioContainer = styled.div`
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
+  // justify-content: space-between;
+  justify-content: center;
 `
 
 const Bio = styled.div`
   font-size: 17px;
-  max-width: 525px;
+  max-width: 450px;
 `
 
 const BioItem = styled.div`
   padding-bottom: 20px;
 `
 
-interface AboutProps {
-  bio_config?: [string]
-}
-
-export default function About(props: AboutProps) {
+export default function About() {
   return (
     <Container>
+      <Navbar />
+      <ImageContainer>
+        <img src={image} style={{ height: "450px" }} />
+      </ImageContainer>
       <BioContainer>
         <Bio>
           <BioItem>
