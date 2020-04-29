@@ -25,7 +25,6 @@ const BioContainer = styled.div`
   display: flex;
   flex-direction: row;
   align-items: center;
-  // justify-content: space-between;
   justify-content: center;
 `
 
@@ -55,7 +54,7 @@ export default function About() {
             among others.
           </BioItem>
           <BioItem>
-            CD is Poetry Editor of <i>Exposition Review</i> and a reader for
+            CD is Poetry Editor of <i>Exposition Review</i> and a reader for{" "}
             <i>Split Lip Magazine</i>. They are a past editor of{" "}
             <i>foothill: a journal of poetry</i>.
           </BioItem>
