@@ -41,7 +41,7 @@ const PublicationContainer = styled.div`
 `
 
 const Item = styled.div`
-  padding-bottom: 10px;
+  padding-bottom: 15px;
   font-size: 14px;
 `
 

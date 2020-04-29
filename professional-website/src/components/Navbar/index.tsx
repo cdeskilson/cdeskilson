@@ -62,9 +62,9 @@ export default function Navbar() {
           work
         </NavItemLink>
         <Padding />
-        <NavItemLink to="/work/" selected={cvPage}>
+        {/* <NavItemLink to="/work/" selected={cvPage}>
           cv
-        </NavItemLink>
+        </NavItemLink> */}
         <Padding />
         <NavItem href="https://twitter.com/cdeskilson" target="_blank">
           <i className="fa fa-twitter" />
