@@ -61,13 +61,22 @@ export default function Navbar() {
         <NavItemLink to="/work/" selected={workPage}>
           work
         </NavItemLink>
-        <Padding />
-        {/* <NavItemLink to="/work/" selected={cvPage}>
+        {/* <Padding />
+        <NavItemLink to="/work/" selected={cvPage}>
           cv
         </NavItemLink> */}
         <Padding />
         <NavItem href="https://twitter.com/cdeskilson" target="_blank">
           <i className="fa fa-twitter" />
+        </NavItem>
+        <Padding />
+        <NavItem href="mailto:cdeskilson@gmail.com" target="_blank">
+          <span
+            class="material-icons"
+            style={{ fontSize: "18px", lineHeight: "unset" }}
+          >
+            email
+          </span>
         </NavItem>
       </NavContainer>
     </Fragment>
