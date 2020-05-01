@@ -5,9 +5,29 @@ import { Helmet } from "react-helmet"
 import About from "../components/About"
 import SEO from "../components/seo"
 
+import favicon16 from "../../assets/favicon-16x16.png"
+import favicon32 from "../../assets/favicon-32x32.png"
+
+console.log({ favicon16 })
+
 const AboutPage = () => (
   <div>
-    <Helmet>
+    <Helmet
+      link={[
+        {
+          rel: "icon",
+          type: "image/png",
+          sizes: "32x32",
+          href: `${favicon32}`,
+        },
+        {
+          rel: "icon",
+          type: "image/png",
+          sizes: "16x16",
+          href: `${favicon16}`,
+        },
+      ]}
+    >
       <link
         href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Playfair+Display&display=swap"
         rel="stylesheet"

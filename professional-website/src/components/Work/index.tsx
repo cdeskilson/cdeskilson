@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "@emotion/styled"
-import { config } from "./config"
+import { forthcomingConfig, publishedConfig } from "./config"
 import Navbar from "../Navbar"
 import image from "../../../assets/publication_image.jpg"
 
@@ -11,7 +11,7 @@ const Container = styled.div`
   flex-direction: column;
   margin: 50px 200px;
   @media only screen and (max-width: 736px) {
-    margin: 50px 40px;
+    margin: 50px 0;
   }
 `
 
@@ -25,10 +25,13 @@ const BodyContainer = styled.div`
 `
 
 const ImageContainer = styled.div`
+  margin-bottom: 28px;
+`
+
+const Image = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin-bottom: 28px;
 `
 
 const PublicationContainer = styled.div`
@@ -37,6 +40,7 @@ const PublicationContainer = styled.div`
   padding-right: 25px;
   @media only screen and (max-width: 736px) {
     padding-right: 0;
+    margin: 0 20px;
   }
 `
 
@@ -54,9 +58,17 @@ const ItemLink = styled.a`
   }
 `
 
+const PhotoCredit = styled.div`
+  max-width: 300px;
+  margin: auto;
+  font-size: 10px;
+  padding-top: 16px;
+`
+
 type Publication = {
-  name: string
-  link: string
+  title: string
+  journal: string
+  link?: string
 }
 
 export default function Work() {
@@ -65,17 +77,28 @@ export default function Work() {
       <Navbar />
       <BodyContainer>
         <ImageContainer>
-          <img src={image} style={{ height: "450px" }} />
+          <Image>
+            <img src={image} style={{ height: "450px" }} />
+          </Image>
+          <PhotoCredit>Photograph by Monica Acosta</PhotoCredit>
         </ImageContainer>
         <PublicationContainer>
-          {config.map((publication: Publication) => (
-            <Item key={publication.name}>
+          {forthcomingConfig.map((publication: Publication) => (
+            <Item key={publication.title}>
+              <ItemLink>
+                {publication.title} in <i>{publication.journal}</i>{" "}
+                (forthcoming)
+              </ItemLink>
+            </Item>
+          ))}
+          {publishedConfig.map((publication: Publication) => (
+            <Item key={publication.title}>
               <ItemLink
                 href={publication.link}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                {publication.name}
+                {publication.title} in <i>{publication.journal}</i>
               </ItemLink>
             </Item>
           ))}

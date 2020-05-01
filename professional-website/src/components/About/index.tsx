@@ -10,15 +10,25 @@ const Container = styled.div`
   flex-direction: column;
   margin: 50px 200px;
   @media only screen and (max-width: 736px) {
-    margin: 50px 40px;
+    margin: 50px 0;
   }
 `
 
 const ImageContainer = styled.div`
+  margin-bottom: 28px;
+`
+
+const Image = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin-bottom: 28px;
+`
+
+const PhotoCredit = styled.div`
+  max-width: 300px;
+  margin: auto;
+  font-size: 10px;
+  padding-top: 16px;
 `
 
 const BioContainer = styled.div`
@@ -26,6 +36,9 @@ const BioContainer = styled.div`
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  @media only screen and (max-width: 736px) {
+    margin: 0 20px;
+  }
 `
 
 const Bio = styled.div`
@@ -42,14 +55,17 @@ export default function About() {
     <Container>
       <Navbar />
       <ImageContainer>
-        <img src={image} style={{ height: "450px" }} />
+        <Image>
+          <img src={image} style={{ height: "450px" }} />
+        </Image>
+        <PhotoCredit>Photograph by Monica Acosta</PhotoCredit>
       </ImageContainer>
       <BioContainer>
         <Bio>
           <BioItem>
             Born and raised in Southern California, CD Eskilson is a queer
             nonbinary poet, editor, and educator. Their work appears or is
-            forthcoming in <i>Redivider</i>, <i>Barren Magazine</i>,
+            forthcoming in <i>Redivider</i>, <i>Barren Magazine</i>,{" "}
             <i>Vagabond City Lit</i>, <i>Yes Poetry</i>, and <i>Peach Mag</i>,
             among others.
           </BioItem>
