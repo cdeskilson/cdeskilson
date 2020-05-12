@@ -1,11 +1,15 @@
 export const forthcomingConfig = [
-  { title: "''Burning Haibun After Geryon''", journal: "Redivider" },
   {
     title: "''Portrait with Inconclusive Lab Results''",
     journal: "Barren Magazine",
   },
 ]
 export const publishedConfig = [
+  { 
+    title: "''Burning Haibun After Geryon''", 
+    journal: "Redivider",
+    link: "http://www.redividerjournal.com/2020/05/cd-eskilson-burning-haibun-after-geryon/",
+  },
   {
     title: "''Becoming Poltergeist''",
     journal: "Ghost City Review",
