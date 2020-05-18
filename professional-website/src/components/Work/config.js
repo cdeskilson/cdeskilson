@@ -1,10 +1,10 @@
-export const forthcomingConfig = [
+export const forthcomingConfig = []
+export const publishedConfig = [  
   {
     title: "''Portrait with Inconclusive Lab Results''",
     journal: "Barren Magazine",
+    link: "https://barrenmagazine.com/portrait-with-inconclusive-lab-results/",
   },
-]
-export const publishedConfig = [
   { 
     title: "''Burning Haibun After Geryon''", 
     journal: "Redivider",
