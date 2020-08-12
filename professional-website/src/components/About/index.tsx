@@ -65,8 +65,8 @@ export default function About() {
           <BioItem>
             Born and raised in Southern California, CD Eskilson is a queer 
             nonbinary poet, editor, and educator. Their work appears or is 
-            forthcoming in <i>Cosmonauts Avenue</i>, <i>Anti-Heroin Chic</i>, 
-            <i>Homology Lit</i>, <i>Redivider</i>, and <i>Barren Magazine</i>, 
+            forthcoming in <i>Cosmonauts Avenue</i>,{" "}<i>Anti-Heroin Chic</i>,{" "} 
+            <i>Homology Lit</i>,{" "}<i>Redivider</i>,{" "}and <i>Barren Magazine</i>, 
             among others.
           </BioItem>
           <BioItem>
