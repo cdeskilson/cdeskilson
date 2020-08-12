@@ -1,5 +1,23 @@
 export const forthcomingConfig = []
 export const publishedConfig = [  
+   {
+    title: "''Self-Portrait with Werewolf”; “The Shape of Water''",
+    journal: "Anti-Heroin Chic",
+    link: "http://heroinchic.weebly.com/blog/poetry-by-cd-eskilson",
+  },
+  
+    {
+    title: "''Dystychipaphobia, or Fear of Accidents''",
+    journal: "Kissing Dynamite Poetry",
+    link: "https://www.kissingdynamitepoetry.com/cd-eskilson-fear-of-accidents.html",
+  },
+  
+    {
+    title: "''Siblinghood”; “Discombobulated''",
+    journal: "Homology Lit",
+    link: "https://homologylit.com/2020/07/31/cd-eskilson/",
+  },
+  
   {
     title: "''Portrait with Inconclusive Lab Results''",
     journal: "Barren Magazine",
