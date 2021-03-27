@@ -67,7 +67,7 @@ const PhotoCredit = styled.div`
 
 const SectionTitle = styled.div`
   font-size: 16px;
-  font-style: bold;
+  font-weight: bold;
   padding-bottom: 24px;
 `
 
@@ -111,12 +111,11 @@ export default function Work() {
           {reviewsConfig.map((publication: Publication) => (
             <Item key={publication.title}>
               <ItemLink
-               href={publication.link}
+                href={publication.link}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                {publication.title} in <i>{publication.journal}</i>{" "}
-                (forthcoming)
+                <span dangerouslySetInnerHTML={{ __html: publication.title" }} /> in <i>{publication.journal}</i>
               </ItemLink>
             </Item>
           ))}
