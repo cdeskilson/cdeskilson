@@ -1,5 +1,17 @@
-export const forthcomingConfig = []
-export const publishedConfig = [  
+export const reviewsConfig = [
+   {
+    title: "''Review of <i>Sho</i> By Douglas Kearney''",
+    journal: "The Arkansas International",
+    link: "https://www.arkint.org/reviews/sho-capsule-review",
+   }
+]
+
+export const publishedConfig = [
+   {
+    title: "''XNA-->XNA''; ''Ode to an Anti-Joke''",
+    journal: "The Shore",
+    link: "https://www.theshorepoetry.org/issue-9",
+   },
    {
     title: "''Self-Portrait with Werewolf”; “The Shape of Water''",
     journal: "Anti-Heroin Chic",
@@ -93,5 +105,5 @@ export const publishedConfig = [
     title: "''Lafe''",
     journal: "After The Pause",
     link: "https://afterthepause.com/2016/09/01/fall-2016/",
-  },
+  }
 ]
