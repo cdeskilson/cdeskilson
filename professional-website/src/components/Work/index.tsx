@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "@emotion/styled"
-import { forthcomingConfig, publishedConfig } from "./config"
+import { reviewsConfig, publishedConfig } from "./config"
 import Navbar from "../Navbar"
 import image from "../../../assets/publication_image.jpg"
 
@@ -65,6 +65,16 @@ const PhotoCredit = styled.div`
   padding-top: 16px;
 `
 
+const SectionTitle = styled.div`
+  font-size: 16px;
+  font-style: bold;
+  padding-bottom: 24px;
+`
+
+const Padding = styled.div`
+  padding-bottom: 40px;
+`
+
 type Publication = {
   title: string
   journal: string
@@ -83,14 +93,7 @@ export default function Work() {
           <PhotoCredit>Photograph by Monica Acosta</PhotoCredit>
         </ImageContainer>
         <PublicationContainer>
-          {forthcomingConfig.map((publication: Publication) => (
-            <Item key={publication.title}>
-              <ItemLink>
-                {publication.title} in <i>{publication.journal}</i>{" "}
-                (forthcoming)
-              </ItemLink>
-            </Item>
-          ))}
+          <SectionTitle>Selected Poetry</SectionTitle>
           {publishedConfig.map((publication: Publication) => (
             <Item key={publication.title}>
               <ItemLink
@@ -103,6 +106,20 @@ export default function Work() {
             </Item>
           ))}
           <Item>& others</Item>
+          <Padding />
+          <SectionTitle>Reviews</SectionTitle>
+          {reviewsConfig.map((publication: Publication) => (
+            <Item key={publication.title}>
+              <ItemLink
+               href={publication.link}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {publication.title} in <i>{publication.journal}</i>{" "}
+                (forthcoming)
+              </ItemLink>
+            </Item>
+          ))}
         </PublicationContainer>
       </BodyContainer>
     </Container>
