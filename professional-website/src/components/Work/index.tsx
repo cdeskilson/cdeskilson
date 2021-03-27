@@ -115,7 +115,7 @@ export default function Work() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <span dangerouslySetInnerHTML={{ __html: publication.title" }} /> in <i>{publication.journal}</i>
+                <span dangerouslySetInnerHTML={{ __html: publication.title }} /> in <i>{publication.journal}</i>
               </ItemLink>
             </Item>
           ))}
