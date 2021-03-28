@@ -13,7 +13,7 @@ function isCvPage() {
 }
 
 const Header = styled.div`
-  font-family: "Playfair Display", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 30px;
   letter-spacing: 1px;
   text-align: center;
