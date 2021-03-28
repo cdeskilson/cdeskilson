@@ -101,7 +101,7 @@ export default function Work() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <b>{publication.title}</br> in <i>{publication.journal}</i>
+                <b>{publication.title}</b> in <i>{publication.journal}</i>
               </ItemLink>
             </Item>
           ))}
@@ -115,7 +115,7 @@ export default function Work() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <br><span dangerouslySetInnerHTML={{ __html: publication.title }} /></br> in <i>{publication.journal}</i>
+                <b><span dangerouslySetInnerHTML={{ __html: publication.title }} /></b> in <i>{publication.journal}</i>
               </ItemLink>
             </Item>
           ))}
