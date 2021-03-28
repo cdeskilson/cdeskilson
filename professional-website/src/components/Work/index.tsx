@@ -69,6 +69,8 @@ const SectionTitle = styled.div`
   font-size: 16px;
   font-weight: bold;
   padding-bottom: 24px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
 `
 
 const Padding = styled.div`
