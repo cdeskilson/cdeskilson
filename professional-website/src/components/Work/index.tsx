@@ -66,7 +66,7 @@ const PhotoCredit = styled.div`
 `
 
 const SectionTitle = styled.div`
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
   padding-bottom: 24px;
   letter-spacing: 3px;
