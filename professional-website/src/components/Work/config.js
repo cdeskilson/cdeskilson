@@ -13,7 +13,7 @@ export const publishedConfig = [
     link: "https://www.theshorepoetry.org/issue-9",
    },
    {
-    title: "Self-Portrait with Werewolf”; “The Shape of Water",
+    title: "Self-Portrait with Werewolf; The Shape of Water",
     journal: "Anti-Heroin Chic",
     link: "http://heroinchic.weebly.com/blog/poetry-by-cd-eskilson",
   },
@@ -25,7 +25,7 @@ export const publishedConfig = [
   },
   
     {
-    title: "Siblinghood”; “Discombobulated",
+    title: "Siblinghood; Discombobulated",
     journal: "Homology Lit",
     link: "https://homologylit.com/2020/07/31/cd-eskilson/",
   },
