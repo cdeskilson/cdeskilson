@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "@emotion/styled"
 import Navbar from "../Navbar"
-import image from "../../../assets/portrait-bw.jpg"
+import image from "../../../assets/cd-headshot.jpg"
 
 const Container = styled.div`
   font-family: "Open Sans", sans-serif;
