@@ -1,12 +1,27 @@
 export const reviewsConfig = [
    {
+    title: "Review of <i>Imagine Us, The Swarm</i> by Muriel Leung",
+    journal: "The Arkansas International",
+    link: "https://www.arkint.org/reviews/tag/CD+Eskilson",
+   },
+   {
+    title: "Review of <i>Hoarders</i> by Kate Durbin",
+    journal: "The Arkansas International",
+    link: "https://www.arkint.org/reviews/tag/CD+Eskilson",
+   },
+   {
     title: "Review of <i>Sho</i> By Douglas Kearney",
     journal: "The Arkansas International",
     link: "https://www.arkint.org/reviews/sho-capsule-review",
-   }
+   },
 ]
 
 export const publishedConfig = [
+   {
+    title: "Passing",
+    journal: "Whale Road Review",
+    link: "www.whaleroadreview.com/eskilson/",
+   },
    {
     title: "XNA-->XNA; Ode to an Anti-Joke",
     journal: "The Shore",
@@ -16,21 +31,19 @@ export const publishedConfig = [
     title: "Self-Portrait with Werewolf; The Shape of Water",
     journal: "Anti-Heroin Chic",
     link: "http://heroinchic.weebly.com/blog/poetry-by-cd-eskilson",
-  },
+   },
   
-    {
+   {
     title: "Dystychipaphobia, or Fear of Accidents",
     journal: "Kissing Dynamite Poetry",
     link: "https://www.kissingdynamitepoetry.com/cd-eskilson-fear-of-accidents.html",
-  },
-  
-    {
+   },
+   {
     title: "Siblinghood; Discombobulated",
     journal: "Homology Lit",
     link: "https://homologylit.com/2020/07/31/cd-eskilson/",
-  },
-  
-  {
+   },
+   {
     title: "Portrait with Inconclusive Lab Results",
     journal: "Barren Magazine",
     link: "https://barrenmagazine.com/portrait-with-inconclusive-lab-results/",
@@ -48,7 +61,7 @@ export const publishedConfig = [
   {
     title: "Obscura",
     journal: "The Cortland Review",
-    link: "https://www.cortlandreview.com/issue/84/eskilson.php",
+    link: "https://archive.cortlandreview.com/issue/84/eskilson.php#1 ",
   },
   {
     title: "After Failing to Come Out Again, the Apparition Arrives",
@@ -60,11 +73,6 @@ export const publishedConfig = [
     title: "Recipe for Roasted Broccoli; Mouth Sores",
     journal: "Moonchild Magazine",
     link: "https://www.moonchildmag.net/cdeskilson.html",
-  },
-  {
-    title: "Bowie",
-    journal: "Defunkt Magazine (Volume 2)",
-    link: "https://www.defunktmag.com/",
   },
   {
     title: "King Ghidorah",
@@ -88,22 +96,5 @@ export const publishedConfig = [
       "Reboot of Aliens to Cast Myself; What Starts a List Poem About OCD",
     journal: "Butter",
     link: "https://www.bttrprss.com/cd-eskilson",
-  },
-  {
-    title: "Remix of ‘White Ferrari’",
-    journal: "The Cardiff Review",
-    link:
-      "https://www.cardiffreview.com/single-post/2019/02/13/Remix-of-White-Ferrari",
-  },
-  {
-    title: "I Grew Up",
-    journal: "Teen Vogue",
-    link:
-      "https://www.teenvogue.com/story/teen-guide-for-voting-in-the-midterms",
-  },
-  {
-    title: "Lafe",
-    journal: "After The Pause",
-    link: "https://afterthepause.com/2016/09/01/fall-2016/",
   }
 ]
