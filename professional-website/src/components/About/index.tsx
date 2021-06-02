@@ -29,6 +29,9 @@ const PhotoCredit = styled.div`
   margin: auto;
   font-size: 10px;
   padding-top: 16px;
+  @media only screen and (max-width: 736px) {
+    max-width: 325px;
+  }
 `
 
 const BioContainer = styled.div`
@@ -38,6 +41,13 @@ const BioContainer = styled.div`
   justify-content: center;
   @media only screen and (max-width: 736px) {
     margin: 0 20px;
+  }
+`
+
+const Img = styled.img`
+  height: 450px;
+  @media only screen and (max-width: 736px) {
+    height: 325px;
   }
 `
 
@@ -56,7 +66,7 @@ export default function About() {
       <Navbar />
       <ImageContainer>
         <Image>
-          <img src={image} style={{ height: "450px" }} />
+          <Img src={image} />
         </Image>
         <PhotoCredit>Photograph by Monica Acosta</PhotoCredit>
       </ImageContainer>
