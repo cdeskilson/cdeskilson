@@ -88,12 +88,6 @@ export default function Work() {
     <Container>
       <Navbar />
       <BodyContainer>
-        <ImageContainer>
-          <Image>
-            <img src={image} style={{ height: "450px" }} />
-          </Image>
-          <PhotoCredit>Photograph by Monica Acosta</PhotoCredit>
-        </ImageContainer>
         <PublicationContainer>
           <SectionTitle>Selected Poetry</SectionTitle>
           {publishedConfig.map((publication: Publication) => (
