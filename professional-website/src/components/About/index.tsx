@@ -25,7 +25,7 @@ const Image = styled.div`
 `
 
 const PhotoCredit = styled.div`
-  max-width: 300px;
+  max-width: 450px;
   margin: auto;
   font-size: 10px;
   padding-top: 16px;
