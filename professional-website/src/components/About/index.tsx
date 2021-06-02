@@ -46,6 +46,7 @@ const BioContainer = styled.div`
 
 const Img = styled.img`
   height: 450px;
+  border-radius: 34%;
   @media only screen and (max-width: 736px) {
     height: 325px;
   }
