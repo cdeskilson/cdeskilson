@@ -63,22 +63,21 @@ export default function About() {
       <BioContainer>
         <Bio>
           <BioItem>
-            Born and raised in Southern California, CD Eskilson is a queer 
-            nonbinary poet, editor, and educator. Their work appears or is 
-            forthcoming in <i>Cosmonauts Avenue</i>,{" "}<i>Anti-Heroin Chic</i>,{" "} 
-            <i>Homology Lit</i>,{" "}<i>Redivider</i>,{" "}and <i>Barren Magazine</i>, 
-            among others.
+            Born and raised in Los Angeles, CD Eskilson is a poet, editor, and 
+            educator. Their work appears or is forthcoming in <i>Pleiades</i>,
+            {" "}the <i>Washington Square Review</i>,{" "}the <i>minnesota review</i>,
+            {" "}and <i>Redivider</i>, among others.
           </BioItem>
           <BioItem>
-            CD is Poetry Editor of <i>Exposition Review</i> and reads for 
-            <i>Split Lip Magazine</i>. They are a past editor of <i>foothill: 
-            a journal of poetry</i>. 
+            CD is poetry editor of <i>Exposition Review</i> and a staff member 
+            of the <i>Arkansas International</i>. They are also a poetry reader 
+            for <i>Split Lip Magazine</i>.
           </BioItem>
           <BioItem>
-            They are an alum of Tin House, Winter Tangerine’s NYC Workshop, 
-            the Speakeasy Project, and a scholarship recipient from the New 
-            York State Summer Writers Institute. They are currently an MFA 
-            candidate at the University of Arkansas. Ask about their houseplants. 
+            CD is currently an MFA candidate at the University of Arkansas where 
+            they received the Walton Family Fellowship in Poetry. They’re an alum 
+            of Tin House, The Speakeasy Project, and Winter Tangerine. Once, they 
+            were in a punk band. 
           </BioItem>
         </Bio>
       </BioContainer>
