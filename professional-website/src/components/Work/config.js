@@ -20,7 +20,7 @@ export const publishedConfig = [
    {
     title: "Passing",
     journal: "Whale Road Review",
-    link: "www.whaleroadreview.com/eskilson/",
+    link: "https://www.whaleroadreview.com/eskilson/",
    },
    {
     title: "XNA-->XNA; Ode to an Anti-Joke",
