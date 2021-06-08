@@ -28,11 +28,15 @@ export const publishedConfig = [
     link: "https://www.theshorepoetry.org/issue-9",
    },
    {
+    title: "My Roommate Buffalo Bill",
+    journal: "Cosmonauts Avenue",
+    link: "https://cosmonautsavenue.com/cd-eskilson/",
+   },
+   {
     title: "Self-Portrait with Werewolf; The Shape of Water",
     journal: "Anti-Heroin Chic",
     link: "http://heroinchic.weebly.com/blog/poetry-by-cd-eskilson",
    },
-  
    {
     title: "Dystychipaphobia, or Fear of Accidents",
     journal: "Kissing Dynamite Poetry",
@@ -80,21 +84,8 @@ export const publishedConfig = [
     link: "https://www.peachmgzn.com/cd-eskilson",
   },
   {
-    title:
-      "Self-Portrait with Underbite; Creation Story for a Minor Goddess of Dysphoria",
-    journal: "What Are Birds? Journal",
-    link:
-      "https://static1.squarespace.com/static/5b7c554196e76fcbb0bf14df/t/5d7dc1b87e85cf79bafe210a/1568522680421/CD+Eskilson.pdf",
-  },
-  {
     title: "Gorgon",
     journal: "Yes Poetry",
     link: "http://www.yespoetry.com/news/cd-eskilson-i-was-outnumbered",
-  },
-  {
-    title:
-      "Reboot of Aliens to Cast Myself; What Starts a List Poem About OCD",
-    journal: "Butter",
-    link: "https://www.bttrprss.com/cd-eskilson",
   }
 ]
