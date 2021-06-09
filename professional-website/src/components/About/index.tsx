@@ -74,8 +74,8 @@ export default function About() {
       <BioContainer>
         <Bio>
           <BioItem>
-            Born and raised in Los Angeles, CD Eskilson is a poet, editor, and 
-            educator. Their work appears or is forthcoming in <i>Pleiades</i>,
+            Born and raised in Los Angeles, CD Eskilson is a trans poet, editor, and 
+            educator. Their work appears or is forthcoming in <i>Pleiades</i>, <i>Cosmonauts Avenue</i>,
             {" "}the <i>Washington Square Review</i>,{" "}the <i>minnesota review</i>,
             {" "}and <i>Redivider</i>, among others.
           </BioItem>
