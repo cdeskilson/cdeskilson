@@ -83,9 +83,4 @@ export const publishedConfig = [
     journal: "Peach Mag",
     link: "https://www.peachmgzn.com/cd-eskilson",
   },
-  {
-    title: "Gorgon",
-    journal: "Yes Poetry",
-    link: "http://www.yespoetry.com/news/cd-eskilson-i-was-outnumbered",
-  }
 ]
