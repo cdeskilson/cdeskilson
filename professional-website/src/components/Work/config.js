@@ -17,6 +17,11 @@ export const reviewsConfig = [
 ]
 
 export const publishedConfig = [
+    {
+    title: "Update on HIM from Powerpuff Girls; Why I Waited to Transition",
+    journal: "The Hellebore",
+    link: "https://thehellebore.com/cd-eskilson/",
+   },
    {
     title: "Passing",
     journal: "Whale Road Review",
