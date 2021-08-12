@@ -105,19 +105,20 @@ export default function Work() {
           <Item>& others</Item>
           <Padding />
           <SectionTitle>Awards</SectionTitle>
-          {awardsConfig.map((publication: Publication) => (
-            <Item key={publication.title}>
-              <b><span dangerouslySetInnerHTML={{ __html: publication.title }} /></b> in 
-              {publication.journal && (
-                publication.link ? 
+          {awardsConfig.map((award: Publication) => (
+            <Item key={award.title}>
+              <b><span dangerouslySetInnerHTML={{ __html: award.title }} /></b>,  
+              {award.journal && (
+                award.link ? 
                 <ItemLink
-                  href={publication.link}
+                  href={award.link}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                <i>{publication.journal}</i>
-                </ItemLink> :  <i>{publication.journal}</i>
+                <i>{award.journal}, </i>
+                </ItemLink> :  <i>{award.journal}, </i>
               )}
+              <span>{award.year}</span>
             </Item>
           ))}
           <Padding />
