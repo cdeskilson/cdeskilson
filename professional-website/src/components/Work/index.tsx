@@ -115,8 +115,9 @@ export default function Work() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
+                  <i>{award.journal}{", "}</i>
+                </ItemLink> :  
                 <i>{award.journal}{", "}</i>
-                </ItemLink> :  <i>{award.journal}{", "}</i>
               )}
               <span>{award.year}</span>
             </Item>
