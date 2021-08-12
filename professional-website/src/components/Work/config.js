@@ -16,6 +16,36 @@ export const reviewsConfig = [
    },
 ]
 
+export const awardsConfig = [
+   {
+    title: "Walton Family Fellowship in Poetry",
+    year: "2021",
+   },
+   {
+    title: "Finalist",
+    journal: "Variant Lit Microchap Contest",
+    year: "2021",
+    link: "https://variantlit.com/contests/",
+   },
+   {
+    title: "Finalist",
+    journal: "Glass Chapbook Series Finalist",
+    year: "2021",
+   },
+   {
+    title: "Finalist",
+    journal: "New South Poetry Contest",
+    year: "2021",
+    link: "https://newsouthjournal.com/contest/",
+   },
+   {
+    title: "Honorable Mention",
+    journal: "C.D. Wright/Academy of American Poets Prize",
+    year: "2021",
+   },
+]
+
+
 export const publishedConfig = [
     {
     title: "Update on HIM from Powerpuff Girls; Why I Waited to Transition",
