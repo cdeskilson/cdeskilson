@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "@emotion/styled"
-import { reviewsConfig, publishedConfig } from "./config"
+import { reviewsConfig, publishedConfig, awardsConfig } from "./config"
 import Navbar from "../Navbar"
 import image from "../../../assets/publication_image.jpg"
 
@@ -81,6 +81,7 @@ type Publication = {
   title: string
   journal: string
   link?: string
+  year?: string
 }
 
 export default function Work() {
@@ -102,6 +103,30 @@ export default function Work() {
             </Item>
           ))}
           <Item>& others</Item>
+          <Padding />
+          <SectionTitle>Awards</SectionTitle>
+          {awardsConfig.map((publication: Publication) => (
+            <Item key={publication.title}>
+<!--               <ItemLink
+                href={publication.link}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <b><span dangerouslySetInnerHTML={{ __html: publication.title }} /></b> in <i>{publication.journal}</i>
+              </ItemLink> -->
+              <b><span dangerouslySetInnerHTML={{ __html: publication.title }} /></b> in 
+              {publication.journal && (
+                publication.link ? 
+                <ItemLink
+                  href={publication.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                <i>{publication.journal}</i>
+                </ItemLink> :  <i>{publication.journal}</i>
+              )}
+            </Item>
+          ))}
           <Padding />
           <SectionTitle>Reviews</SectionTitle>
           {reviewsConfig.map((publication: Publication) => (
