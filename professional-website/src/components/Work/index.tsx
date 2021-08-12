@@ -107,7 +107,7 @@ export default function Work() {
           <SectionTitle>Awards</SectionTitle>
           {awardsConfig.map((award: Publication) => (
             <Item key={award.title}>
-              <b><span dangerouslySetInnerHTML={{ __html: award.title }} /></b>,  
+              <b><span dangerouslySetInnerHTML={{ __html: award.title }} />{", "}</b>
               {award.journal && (
                 award.link ? 
                 <ItemLink
@@ -115,8 +115,8 @@ export default function Work() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                <i>{award.journal}, </i>
-                </ItemLink> :  <i>{award.journal}, </i>
+                <i>{award.journal}{", "}</i>
+                </ItemLink> :  <i>{award.journal}{", "}</i>
               )}
               <span>{award.year}</span>
             </Item>
