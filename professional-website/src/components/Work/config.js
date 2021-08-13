@@ -109,11 +109,6 @@ export const publishedConfig = [
       "https://vagabondcitylit.com/2020/02/10/after-failing-to-come-out-again-the-apparition-comes-by-cd-eskilson/",
   },
   {
-    title: "Recipe for Roasted Broccoli; Mouth Sores",
-    journal: "Moonchild Magazine",
-    link: "https://www.moonchildmag.net/cdeskilson.html",
-  },
-  {
     title: "King Ghidorah",
     journal: "Peach Mag",
     link: "https://www.peachmgzn.com/cd-eskilson",
