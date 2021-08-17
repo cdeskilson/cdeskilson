@@ -48,6 +48,11 @@ export const awardsConfig = [
 
 export const publishedConfig = [
     {
+    title: "Draft Message to My Sibling After Top Surgery; Since Moving From the Beach",
+    journal: "Hobart",
+    link: "https://www.hobartpulp.com/web_features/two-poems-80aa462d-0458-4b72-aeb4-707ff8837fec",
+   },
+   {
     title: "Update on HIM from Powerpuff Girls; Why I Waited to Transition",
     journal: "The Hellebore",
     link: "https://thehellebore.com/cd-eskilson/",
