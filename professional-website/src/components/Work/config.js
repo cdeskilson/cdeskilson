@@ -17,6 +17,11 @@ export const reviewsConfig = [
 ]
 
 export const awardsConfig = [
+    {
+    title: "Best of the Net Nominee",
+    year: "2021",
+    link: "https://thehellebore.com/announcing-the-2021-best-of-the-net-nominees/",
+   },
    {
     title: "Walton Family Fellowship in Poetry",
     year: "2021",
@@ -26,11 +31,6 @@ export const awardsConfig = [
     journal: "Variant Lit Microchap Contest",
     year: "2021",
     link: "https://variantlit.com/contests/",
-   },
-   {
-    title: "Finalist",
-    journal: "Glass Chapbook Series Finalist",
-    year: "2021",
    },
    {
     title: "Finalist",
