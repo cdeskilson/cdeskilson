@@ -107,7 +107,17 @@ export default function Work() {
           <SectionTitle>Awards</SectionTitle>
           {awardsConfig.map((award: Publication) => (
             <Item key={award.title}>
-              <b><span dangerouslySetInnerHTML={{ __html: award.title }} />{", "}</b>
+              {award.link && !award.journal ? (
+                <ItemLink
+                  href={award.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <b><span dangerouslySetInnerHTML={{ __html: award.title }} />{", "}</b>
+                </ItemLink>
+                ) : (
+                <b><span dangerouslySetInnerHTML={{ __html: award.title }} />{", "}</b>
+              )}
               {award.journal && (
                 award.link ? 
                 <ItemLink
