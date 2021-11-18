@@ -38,11 +38,6 @@ export const awardsConfig = [
     year: "2021",
     link: "https://newsouthjournal.com/contest/",
    },
-   {
-    title: "Honorable Mention",
-    journal: "C.D. Wright/Academy of American Poets Prize",
-    year: "2021",
-   },
 ]
 
 
@@ -73,11 +68,6 @@ export const publishedConfig = [
     link: "https://cosmonautsavenue.com/cd-eskilson/",
    },
    {
-    title: "Self-Portrait with Werewolf; The Shape of Water",
-    journal: "Anti-Heroin Chic",
-    link: "http://heroinchic.weebly.com/blog/poetry-by-cd-eskilson",
-   },
-   {
     title: "Dystychipaphobia, or Fear of Accidents",
     journal: "Kissing Dynamite Poetry",
     link: "https://www.kissingdynamitepoetry.com/cd-eskilson-fear-of-accidents.html",
@@ -106,12 +96,6 @@ export const publishedConfig = [
     title: "Obscura",
     journal: "The Cortland Review",
     link: "https://archive.cortlandreview.com/issue/84/eskilson.php#1 ",
-  },
-  {
-    title: "After Failing to Come Out Again, the Apparition Arrives",
-    journal: "Vagabond City Lit",
-    link:
-      "https://vagabondcitylit.com/2020/02/10/after-failing-to-come-out-again-the-apparition-comes-by-cd-eskilson/",
   },
   {
     title: "King Ghidorah",
