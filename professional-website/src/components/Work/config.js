@@ -98,11 +98,6 @@ export const publishedConfig = [
     link: "https://ghostcitypress.com/poetry-420/2020/4/20/cd-eskilson",
   },
   {
-    title: "Obscura",
-    journal: "The Cortland Review",
-    link: "https://archive.cortlandreview.com/issue/84/eskilson.php#1 ",
-  },
-  {
     title: "King Ghidorah",
     journal: "Peach Mag",
     link: "https://www.peachmgzn.com/cd-eskilson",
