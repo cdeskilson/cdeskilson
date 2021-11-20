@@ -43,7 +43,7 @@ export const awardsConfig = [
 
 export const publishedConfig = [
     {
-    title: "I Still Gaven't Seen <i>The Fly</i>",
+    title: "I Still Gaven't Seen The Fly",
     journal: "Cotton Xenomorph",
     link: "https://www.cottonxenomorph.com/journal/2021/11/20/i-still-havent-seen-the-fly",
    },
