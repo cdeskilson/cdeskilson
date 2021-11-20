@@ -43,6 +43,11 @@ export const awardsConfig = [
 
 export const publishedConfig = [
     {
+    title: "I Still Gaven't Seen <i>The Fly</i>",
+    journal: "Cotton Xenomorph",
+    link: "https://www.cottonxenomorph.com/journal/2021/11/20/i-still-havent-seen-the-fly",
+   },
+   {
     title: "Draft Message to My Sibling After Top Surgery; Since Moving From the Beach",
     journal: "Hobart",
     link: "https://www.hobartpulp.com/web_features/two-poems-80aa462d-0458-4b72-aeb4-707ff8837fec",
