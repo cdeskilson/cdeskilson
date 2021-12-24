@@ -96,7 +96,7 @@ export default function Work() {
               {publication.isPrint ? 
                 (
                   <>
-                  <b>{publication.title}</b> in <i>{publication.journal}</i> (Print)
+                  <b>{publication.title}</b> in <i>{publication.journal}</i>{" "}(Print)
                   </>
                 )
                  : 
