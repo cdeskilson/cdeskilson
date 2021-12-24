@@ -42,7 +42,12 @@ export const awardsConfig = [
 
 
 export const publishedConfig = [
-    {
+   {
+    title: "Essay on Witchcraft.; Fan Mail for the Headless Horseman",
+    journal: "Minnesota Review",
+    isPrint: true,
+   },
+   {
     title: "I Still Haven't Seen The Fly",
     journal: "Cotton Xenomorph",
     link: "https://www.cottonxenomorph.com/journal/2021/11/20/i-still-havent-seen-the-fly",
