@@ -93,13 +93,22 @@ export default function Work() {
           <SectionTitle>Selected Poetry</SectionTitle>
           {publishedConfig.map((publication: Publication) => (
             <Item key={publication.title}>
-              <ItemLink
+              {publication.isPrint ? 
+                (
+                  <>
+                  <b>{publication.title}</b> in <i>{publication.journal}</i> (Print)
+                  </>
+                )
+                 : 
+                  (
+                <ItemLink
                 href={publication.link}
                 target="_blank"
                 rel="noopener noreferrer"
-              >
-                <b>{publication.title}</b> in <i>{publication.journal}</i>
-              </ItemLink>
+                 >
+                  <b>{publication.title}</b> in <i>{publication.journal}</i>
+                </ItemLink>
+              )}
             </Item>
           ))}
           <Item>& others</Item>
