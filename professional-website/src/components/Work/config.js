@@ -42,6 +42,11 @@ export const awardsConfig = [
 
 
 export const publishedConfig = [
+    {
+    title: "When Arkansas Bans Healthcare for Trans Youth",
+    journal: "New Delta Review",
+    link: "http://ndrmag.org/poetry/2021/12/when-arkansas-bans-healthcare-for-trans-youth/",
+   },
    {
     title: "Essay on Witchcraft.; Fan Mail for the Headless Horseman",
     journal: "Minnesota Review",
