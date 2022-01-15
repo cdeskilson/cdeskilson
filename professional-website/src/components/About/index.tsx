@@ -1,4 +1,4 @@
-import React from "react"
+y import React from "react"
 import styled from "@emotion/styled"
 import Navbar from "../Navbar"
 import image from "../../../assets/cd-headshot.jpg"
@@ -80,9 +80,8 @@ export default function About() {
             {" "}and and they are a 2021 <i>Best of the Net</i> nominee.
           </BioItem>
           <BioItem>
-            CD is poetry editor of <i>Exposition Review</i> and a staff member 
-            of the <i>Arkansas International</i>. They are also a poetry reader 
-            for <i>Split Lip Magazine</i>.
+            CD is poetry editor of <i>Exposition Review</i> and a poetry reader 
+            for <i>Split Lip Magazine</i>. They servee as outreach coordinator for the Open Mouth Literary Center based in Fayetteville, Arkansas.
           </BioItem>
           <BioItem>
             CD is currently an MFA candidate at the University of Arkansas where 
