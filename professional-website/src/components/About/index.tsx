@@ -1,4 +1,4 @@
-y import React from "react"
+import React from "react"
 import styled from "@emotion/styled"
 import Navbar from "../Navbar"
 import image from "../../../assets/cd-headshot.jpg"
