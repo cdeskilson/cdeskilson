@@ -19,7 +19,7 @@ export const reviewsConfig = [
 export const awardsConfig = [
     {
     title: "Best of the Net Finalist",
-    year: "2021",
+    year: "2022",
     link: "http://bestofthenetanthology.com/2022-2/finalists-2022/",
    },
    {
