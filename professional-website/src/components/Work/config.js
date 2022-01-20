@@ -18,9 +18,9 @@ export const reviewsConfig = [
 
 export const awardsConfig = [
     {
-    title: "Best of the Net Nominee",
+    title: "Best of the Net Finalist",
     year: "2021",
-    link: "https://thehellebore.com/announcing-the-2021-best-of-the-net-nominees/",
+    link: "http://bestofthenetanthology.com/2022-2/finalists-2022/",
    },
    {
     title: "Walton Family Fellowship in Poetry",
