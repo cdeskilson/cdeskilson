@@ -77,7 +77,7 @@ export default function About() {
             Born and raised in Los Angeles, CD Eskilson is a trans poet, editor, and 
             educator. Their work appears or is forthcoming in <i>Hobart</i>, <i>Pleiades</i>, <i>Cosmonauts Avenue</i>,
             {" "}the <i>Washington Square Review</i>,{" "}the <i>minnesota review</i>,
-            {" "}and and they are a 2021 <i>Best of the Net</i> Finalist.
+            {" "}and and they are a 2022 <i>Best of the Net</i> Finalist.
           </BioItem>
           <BioItem>
             CD is poetry editor of <i>Exposition Review</i> and a poetry reader 
