@@ -42,7 +42,13 @@ export const awardsConfig = [
 
 
 export const publishedConfig = [
+
     {
+    title: "Finsta of Icarus in Drag",
+    journal: "Indianapolis Review",
+    link: "https://theindianapolisreview.com/finsta-of-icarus-in-drag/",
+   },
+   {
     title: "When Arkansas Bans Healthcare for Trans Youth",
     journal: "New Delta Review",
     link: "http://ndrmag.org/poetry/2021/12/when-arkansas-bans-healthcare-for-trans-youth/",
@@ -57,6 +63,11 @@ export const publishedConfig = [
     journal: "Cotton Xenomorph",
     link: "https://www.cottonxenomorph.com/journal/2021/11/20/i-still-havent-seen-the-fly",
    },
+   {
+    title: "When People Tell You GAD Can't Be that Bad",
+    journal: "Voicemail Poems",
+    link: "https://voicemailpoems.org/2021/11/15/when-people-tell-you-gad-cant-be-that-bad/",
+  },
    {
     title: "Draft Message to My Sibling After Top Surgery; Since Moving From the Beach",
     journal: "Hobart",
@@ -101,15 +112,5 @@ export const publishedConfig = [
     title: "Burning Haibun After Geryon", 
     journal: "Redivider",
     link: "http://www.redividerjournal.com/2020/05/cd-eskilson-burning-haibun-after-geryon/",
-  },
-  {
-    title: "Becoming Poltergeist",
-    journal: "Ghost City Review",
-    link: "https://ghostcitypress.com/poetry-420/2020/4/20/cd-eskilson",
-  },
-  {
-    title: "King Ghidorah",
-    journal: "Peach Mag",
-    link: "https://www.peachmgzn.com/cd-eskilson",
   },
 ]
