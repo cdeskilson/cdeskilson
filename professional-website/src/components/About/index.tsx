@@ -80,8 +80,7 @@ export default function About() {
             {" "}and and they are a 2022 <i>Best of the Net</i> Finalist.
           </BioItem>
           <BioItem>
-            CD is poetry editor of <i>Exposition Review</i> and a poetry reader 
-            for <i>Split Lip Magazine</i>. They serve as outreach coordinator for the Open Mouth Literary Center based in Fayetteville, Arkansas.
+            CD is assistant poetry editor for <i>Split Lip Magazine</i> and poetry editor of <i>Exposition Review</i>. They serve as outreach coordinator for the Open Mouth Literary Center based in Fayetteville, Arkansas.
           </BioItem>
           <BioItem>
             CD is currently an MFA candidate at the University of Arkansas where 
