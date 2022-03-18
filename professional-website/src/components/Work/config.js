@@ -44,9 +44,9 @@ export const awardsConfig = [
 export const publishedConfig = [
 
     {
-    title: "Finsta of Icarus in Drag",
-    journal: "Indianapolis Review",
-    link: "https://theindianapolisreview.com/finsta-of-icarus-in-drag/",
+    title: "Deleted Scene: Each Time I'm Trans Enough",
+    journal: "Dialogist",
+    link: "https://dialogist.org/poetry/week-11-cd-eskilson",
    },
    {
     title: "When Arkansas Bans Healthcare for Trans Youth",
