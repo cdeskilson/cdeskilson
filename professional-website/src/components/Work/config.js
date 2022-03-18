@@ -45,7 +45,7 @@ export const publishedConfig = [
 
     {
     title: "Deleted Scene: Each Time I'm Trans Enough",
-    journal: "Dialogist",
+    journal: "DIALOGIST",
     link: "https://dialogist.org/poetry/week-11-cd-eskilson",
    },
    {
