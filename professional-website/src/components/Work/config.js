@@ -49,6 +49,11 @@ export const publishedConfig = [
     link: "https://dialogist.org/poetry/week-11-cd-eskilson",
    },
    {
+    title: "Finsta of Icarus in Drag",
+    journal: "The Indianapolis Review",
+    link: "https://theindianapolisreview.com/finsta-of-icarus-in-drag/",
+   },
+   {
     title: "When Arkansas Bans Healthcare for Trans Youth",
     journal: "New Delta Review",
     link: "http://ndrmag.org/poetry/2021/12/when-arkansas-bans-healthcare-for-trans-youth/",
@@ -97,11 +102,6 @@ export const publishedConfig = [
     title: "Dystychipaphobia, or Fear of Accidents",
     journal: "Kissing Dynamite Poetry",
     link: "https://www.kissingdynamitepoetry.com/cd-eskilson-fear-of-accidents.html",
-   },
-   {
-    title: "Siblinghood; Discombobulated",
-    journal: "Homology Lit",
-    link: "https://homologylit.com/2020/07/31/cd-eskilson/",
    },
    {
     title: "Portrait with Inconclusive Lab Results",
