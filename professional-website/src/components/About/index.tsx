@@ -76,7 +76,7 @@ export default function About() {
           <BioItem>
             Born and raised in Los Angeles, CD Eskilson is a trans poet, editor, and 
             educator. Their work appears or is forthcoming in <i>Hobart</i>, <i>Pleiades</i>, <i>Beloit Poetry Journal</i>,
-            {" "}the <i>Washington Square Review</i>,{" "}the <i>minnesota review</i>,
+            {" "}<i>Ninth Letter</i>,{" "}the <i>minnesota review</i>,
             {" "}and and they are a 2022 <i>Best of the Net</i> Finalist.
           </BioItem>
           <BioItem>
@@ -84,7 +84,7 @@ export default function About() {
           </BioItem>
           <BioItem>
             CD is currently an MFA candidate at the University of Arkansas where 
-            they received the Walton Family Fellowship in Poetry. They’re an alum 
+            they've received the Walton Family Fellowship in Poetry and Lily Peter Fellowship in Translation. They’re an alum 
             of Tin House, The Speakeasy Project, and Winter Tangerine. Once, they 
             were in a punk band. 
           </BioItem>
