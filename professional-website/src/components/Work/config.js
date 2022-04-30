@@ -18,6 +18,10 @@ export const reviewsConfig = [
 
 export const awardsConfig = [
     {
+    title: "Lily Peter Fellowship in Translation ",
+    year: "2022",
+   },
+   {
     title: "Best of the Net Finalist",
     year: "2022",
     link: "http://bestofthenetanthology.com/2022-2/finalists-2022/",
