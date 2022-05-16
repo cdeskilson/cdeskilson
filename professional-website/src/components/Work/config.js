@@ -48,6 +48,11 @@ export const awardsConfig = [
 export const publishedConfig = [
 
     {
+    title: "Confession from Medusa's Head",
+    journal: "Pleiades",
+    isPrint: true,
+   },
+   {
     title: "Deleted Scene: Each Time I'm Trans Enough",
     journal: "DIALOGIST",
     link: "https://dialogist.org/poetry/week-11-cd-eskilson",
@@ -91,11 +96,6 @@ export const publishedConfig = [
     title: "Passing",
     journal: "Whale Road Review",
     link: "https://www.whaleroadreview.com/eskilson/",
-   },
-   {
-    title: "XNA-->XNA; Ode to an Anti-Joke",
-    journal: "The Shore",
-    link: "https://www.theshorepoetry.org/issue-9",
    },
    {
     title: "My Roommate Buffalo Bill",
