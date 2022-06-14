@@ -84,8 +84,7 @@ export default function About() {
           </BioItem>
           <BioItem>
             CD is currently an MFA candidate at the University of Arkansas where 
-            they've received the Walton Family Fellowship in Poetry and Lily Peter Fellowship in Translation. They’re an alum 
-            of Tin House, The Speakeasy Project, and Winter Tangerine. Once, they 
+            they've received the Walton Family Fellowship in Poetry and Lily Peter Fellowship in Translation. Once, they 
             were in a punk band. 
           </BioItem>
         </Bio>
