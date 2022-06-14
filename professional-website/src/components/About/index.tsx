@@ -75,7 +75,7 @@ export default function About() {
         <Bio>
           <BioItem>
             Born and raised in Los Angeles, CD Eskilson is a trans poet, editor, and 
-            educator. Their work appears or is forthcoming in <i>Hobart</i>, <i>Pleiades</i>, <i>Beloit Poetry Journal</i>,
+            translator. Their work appears or is forthcoming in <i>Pleiades</i>, <i>The Offing</i>, <i>Beloit Poetry Journal</i>,
             {" "}<i>Ninth Letter</i>,{" "}the <i>minnesota review</i>,
             {" "}and and they are a 2022 <i>Best of the Net</i> Finalist.
           </BioItem>
