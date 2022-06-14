@@ -55,6 +55,12 @@ export const translationsConfig = [
 
 export const publishedConfig = [
     {
+    title: "Ekphrasis for Trancestor",
+    journal: "Cream City Review",
+    isPrint: true,
+   },
+   
+   {
     title: "Confession from Medusa's Head",
     journal: "Pleiades",
     isPrint: true,
