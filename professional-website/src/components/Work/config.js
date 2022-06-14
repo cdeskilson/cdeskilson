@@ -55,7 +55,7 @@ export const translationsConfig = [
 
 export const publishedConfig = [
     {
-    title: "Ekphrasis for Trancestor",
+    title: "Ekphrasis for Transcestor",
     journal: "Cream City Review",
     isPrint: true,
    },
