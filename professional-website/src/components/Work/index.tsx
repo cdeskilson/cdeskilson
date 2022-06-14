@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "@emotion/styled"
-import { reviewsConfig, publishedConfig, awardsConfig } from "./config"
+import { reviewsConfig, publishedConfig, awardsConfig, translationsConfig } from "./config"
 import Navbar from "../Navbar"
 import image from "../../../assets/publication_image.jpg"
 
@@ -112,6 +112,28 @@ export default function Work() {
             </Item>
           ))}
           <Item>& others</Item>
+          <Padding />
+          <SectionTitle>Selected Translations</SectionTitle>
+          {translationsConfig.map((publication: Publication) => (
+            <Item key={publication.title}>
+              {publication.isPrint ? 
+                (
+                  <>
+                  <b>{publication.title}</b> in <i>{publication.journal}</i>{" "}(Print)
+                  </>
+                )
+                 : 
+                  (
+                <ItemLink
+                href={publication.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                 >
+                  <b>{publication.title}</b> in <i>{publication.journal}</i>
+                </ItemLink>
+              )}
+            </Item>
+          ))}
           <Padding />
           <SectionTitle>Awards</SectionTitle>
           {awardsConfig.map((award: Publication) => (
