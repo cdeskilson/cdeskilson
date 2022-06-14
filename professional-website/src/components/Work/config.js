@@ -44,9 +44,16 @@ export const awardsConfig = [
    },
 ]
 
+export const translationsConfig = [
+   {
+    title: "“Love” and Other Poems",
+    journal: "The Offing",
+    link: "https://theoffingmag.com/translation/love-and-other-poems/",
+   },
+]
+
 
 export const publishedConfig = [
-
     {
     title: "Confession from Medusa's Head",
     journal: "Pleiades",
