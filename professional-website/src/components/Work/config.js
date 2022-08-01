@@ -54,7 +54,11 @@ export const translationsConfig = [
 
 
 export const publishedConfig = [
-    {
+    title: "A Brief History of Broken Glass",
+    journal: "Ninth Letter",
+    link: "http://ninthletter.com/summer-2022/summer-22-poetry/489-eskilson",
+   },
+   {
     title: "Ekphrasis for Transcestor",
     journal: "Cream City Review",
     isPrint: true,
@@ -120,11 +124,6 @@ export const publishedConfig = [
     journal: "Kissing Dynamite Poetry",
     link: "https://www.kissingdynamitepoetry.com/cd-eskilson-fear-of-accidents.html",
    },
-   {
-    title: "Portrait with Inconclusive Lab Results",
-    journal: "Barren Magazine",
-    link: "https://barrenmagazine.com/portrait-with-inconclusive-lab-results/",
-  },
   { 
     title: "Burning Haibun After Geryon", 
     journal: "Redivider",
