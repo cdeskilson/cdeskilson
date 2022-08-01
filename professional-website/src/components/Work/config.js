@@ -54,6 +54,7 @@ export const translationsConfig = [
 
 
 export const publishedConfig = [
+   {
     title: "A Brief History of Broken Glass",
     journal: "Ninth Letter",
     link: "http://ninthletter.com/summer-2022/summer-22-poetry/489-eskilson",
