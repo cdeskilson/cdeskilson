@@ -75,13 +75,13 @@ export default function About() {
         <Bio>
           <BioItem>
             Born and raised in Los Angeles, CD Eskilson is a trans poet, editor, and 
-            translator. Their work appears or is forthcoming in <i>Pleiades</i>, <i>The Offing</i>, <i>Beloit Poetry Journal</i>,
-            {" "}<i>Ninth Letter</i>,{" "}the <i>minnesota review</i>,
+            translator. Their work appears in <i>The Offing</i>, <i>Pleiades</i>, <i>Hobart</i>,
+            {" "}<i>Ninth Letter</i>,<i>minnesota review</i>,
             {" "}and and they are a 2022 <i>Best of the Net</i> Finalist.
           </BioItem>
           <BioItem>
             CD is assistant poetry editor for <i>Split Lip Magazine</i> and poetry editor for <i>Exposition Review</i>. They are currently an MFA candidate at the University of Arkansas where 
-            they received the Walton Family Fellowship in Poetry and Lily Peter Fellowship in Translation, and they served as outreach coordinator for the Open Mouth Literary Center. Once, they 
+            they've received the Walton Family Fellowship in Poetry and Lily Peter Fellowship in Translation. They also served as outreach coordinator for the Open Mouth Literary Center. Once, they 
             were in a punk band. 
           </BioItem>
         </Bio>
