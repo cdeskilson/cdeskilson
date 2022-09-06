@@ -77,7 +77,7 @@ export default function About() {
             Born and raised in Los Angeles, CD Eskilson is a trans poet, editor, and 
             translator. Their work appears in <i>The Offing</i>,{" "}<i>Pleiades</i>,{" "}<i>Hobart</i>,
             {" "}<i>Ninth Letter</i>,{" "}<i>minnesota review</i>,
-            {" "}and they are a 2022 <i>Best of the Net</i> Finalist.
+            {" "}and they are a two-time <i>Best of the Net</i> Nominee.
           </BioItem>
           <BioItem>
             CD is assistant poetry editor for <i>Split Lip Magazine</i> and poetry editor for <i>Exposition Review</i>. They are currently an MFA candidate at the University of Arkansas where 
