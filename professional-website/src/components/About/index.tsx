@@ -81,7 +81,7 @@ export default function About() {
           </BioItem>
           <BioItem>
             CD is assistant poetry editor for <i>Split Lip Magazine</i> and poetry editor for <i>Exposition Review</i>. They are currently an MFA candidate at the University of Arkansas where 
-            they've received the Walton Family Fellowship in Poetry and Lily Peter Fellowship in Translation. They also served as outreach coordinator for the Open Mouth Literary Center. Once, they 
+            they've received the Walton Family Fellowship in Poetry and Lily Peter Fellowship in Translation. They also work as Outreach Coordinator for the Open Mouth Literary Center. Once, they 
             were in a punk band. 
           </BioItem>
         </Bio>
