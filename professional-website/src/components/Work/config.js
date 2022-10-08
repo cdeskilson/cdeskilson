@@ -120,11 +120,6 @@ export const publishedConfig = [
     journal: "Cosmonauts Avenue",
     link: "https://cosmonautsavenue.com/cd-eskilson/",
    },
-   {
-    title: "Dystychipaphobia, or Fear of Accidents",
-    journal: "Kissing Dynamite Poetry",
-    link: "https://www.kissingdynamitepoetry.com/cd-eskilson-fear-of-accidents.html",
-   },
   { 
     title: "Burning Haibun After Geryon", 
     journal: "Redivider",
