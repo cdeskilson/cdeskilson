@@ -115,14 +115,4 @@ export const publishedConfig = [
     journal: "Whale Road Review",
     link: "https://www.whaleroadreview.com/eskilson/",
    },
-   {
-    title: "My Roommate Buffalo Bill",
-    journal: "Cosmonauts Avenue",
-    link: "https://cosmonautsavenue.com/cd-eskilson/",
-   },
-  { 
-    title: "Burning Haibun After Geryon", 
-    journal: "Redivider",
-    link: "http://www.redividerjournal.com/2020/05/cd-eskilson-burning-haibun-after-geryon/",
-  },
 ]
