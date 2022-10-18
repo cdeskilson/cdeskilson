@@ -51,9 +51,9 @@ export const translationsConfig = [
     link: "https://waxwingmag.org/items/issue28/57_Sodergran-Vierge-moderne.php",
    },
     {
-    title: "“Two Poems by Edith Södergran”,
+    title: "Two Poems by Edith Södergran",
     journal: "Waxwing",
-    link: "https://theoffingmag.com/translation/love-and-other-poems/",
+    link: "https://waxwingmag.org/items/issue28/57_Sodergran-Vierge-moderne.php",
    },
 ]
 
