@@ -59,6 +59,12 @@ export const translationsConfig = [
 
 
 export const publishedConfig = [
+ {
+    title: "On Hold, I Think About the Shape of Words; Heredity",
+    journal: "Beloit Poetry Journal",
+    isPrint: true,
+   },
+   
    {
     title: "A Brief History of Broken Glass",
     journal: "Ninth Letter",
@@ -119,5 +125,10 @@ export const publishedConfig = [
     title: "Passing",
     journal: "Whale Road Review",
     link: "https://www.whaleroadreview.com/eskilson/",
+   },
+    {
+    title: "Dystychipaphobia, or Fear of Accidents",
+    journal: "Kissing Dynamite",
+    link: "https://www.kissingdynamitepoetry.com/cd-eskilson-fear-of-accidents.html",
    },
 ]
