@@ -59,12 +59,16 @@ export const translationsConfig = [
 
 
 export const publishedConfig = [
- {
+    {
+    title: "What I Am",
+    journal: "Passages North",
+    link: "https://www.passagesnorth.com/passagesnorthcom/2022/11/11/what-i-am-by-cd-eskilson",
+   },
+   {
     title: "On Hold, I Think About the Shape of Words; Heredity",
     journal: "Beloit Poetry Journal",
     isPrint: true,
    },
-   
    {
     title: "A Brief History of Broken Glass",
     journal: "Ninth Letter",
@@ -75,7 +79,6 @@ export const publishedConfig = [
     journal: "Cream City Review",
     isPrint: true,
    },
-   
    {
     title: "Confession from Medusa's Head",
     journal: "Pleiades",
@@ -125,10 +128,5 @@ export const publishedConfig = [
     title: "Passing",
     journal: "Whale Road Review",
     link: "https://www.whaleroadreview.com/eskilson/",
-   },
-    {
-    title: "Dystychipaphobia, or Fear of Accidents",
-    journal: "Kissing Dynamite",
-    link: "https://www.kissingdynamitepoetry.com/cd-eskilson-fear-of-accidents.html",
    },
 ]
