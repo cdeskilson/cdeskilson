@@ -60,6 +60,11 @@ export const translationsConfig = [
 
 export const publishedConfig = [
     {
+    title: "How to be Happy",
+    journal: "BOOTH",
+    link: "https://booth.butler.edu/2022/12/02/how-to-be-happy/",
+   },
+   {
     title: "What I Am",
     journal: "Passages North",
     link: "https://www.passagesnorth.com/passagesnorthcom/2022/11/11/what-i-am-by-cd-eskilson",
@@ -123,10 +128,5 @@ export const publishedConfig = [
     title: "Update on HIM from Powerpuff Girls; Why I Waited to Transition",
     journal: "The Hellebore",
     link: "https://thehellebore.com/cd-eskilson/",
-   },
-   {
-    title: "Passing",
-    journal: "Whale Road Review",
-    link: "https://www.whaleroadreview.com/eskilson/",
    },
 ]
