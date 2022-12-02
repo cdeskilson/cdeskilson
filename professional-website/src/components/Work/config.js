@@ -59,9 +59,9 @@ export const translationsConfig = [
 
 
 export const publishedConfig = [
-    {
+   {
     title: "How to be Happy",
-    journal: "BOOTH",
+    journal: "Booth",
     link: "https://booth.butler.edu/2022/12/02/how-to-be-happy/",
    },
    {
