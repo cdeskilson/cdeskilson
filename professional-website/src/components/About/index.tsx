@@ -75,7 +75,7 @@ export default function About() {
         <Bio>
           <BioItem>
             Born and raised in Los Angeles, CD Eskilson is a trans poet, editor, and 
-            translator. Their work appears in <i>The Offing</i>,{" "}<i>Pleiades</i>,{" "}<i>Cream City Review</i>,
+            translator. Their work appears in <i>The Offing</i>,{" "}<i>Pleiades</i>,{" "}<i>Washington Square Review</i>,
             {" "}<i>Ninth Letter</i>,{" "}<i>New Delta Review</i>,
             {" "}and they are a <i>Best of the Net</i> and Pushcart Prize Nominee.
           </BioItem>
