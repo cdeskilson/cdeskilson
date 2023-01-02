@@ -59,7 +59,12 @@ export const translationsConfig = [
 
 
 export const publishedConfig = [
-    {
+     {
+    title: "Accidental Selife in the Photo of a Window Quote",
+    journal: "The Florida Review",
+    link: "https://floridareview.cah.ucf.edu/article/accidental-selfie-in-the-photo-of-a-window-quote/",
+   },
+   {
     title: "From Prey",
     journal: "Washington Square Review",
     link: "https://www.washingtonsquarereview.com/cd-eskilson",
