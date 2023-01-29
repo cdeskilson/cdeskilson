@@ -82,7 +82,7 @@ export const publishedConfig = [
    {
     title: "On Hold, I Think About the Shape of Words; Heredity",
     journal: "Beloit Poetry Journal",
-    isPrint: true,
+    link: "https://www.bpj.org/issues/v72n1",
    },
    {
     title: "A Brief History of Broken Glass",
