@@ -126,11 +126,6 @@ export const publishedConfig = [
     link: "https://www.cottonxenomorph.com/journal/2021/11/20/i-still-havent-seen-the-fly",
    },
    {
-    title: "When People Tell You GAD Can't Be that Bad",
-    journal: "Voicemail Poems",
-    link: "https://voicemailpoems.org/2021/11/15/when-people-tell-you-gad-cant-be-that-bad/",
-  },
-   {
     title: "Draft Message to My Sibling After Top Surgery; Since Moving From the Beach",
     journal: "HAD",
     link: "https://www.havehashad.com/web_features/two-poems-80aa462d-0458-4b72-aeb4-707ff8837fec",
