@@ -59,7 +59,13 @@ export const translationsConfig = [
 
 
 export const publishedConfig = [
-     {
+    
+    {
+    title: "Trans Panic Contrapuntal; Reversed House Cleansing",
+    journal: "Pidgeonholes",
+    link: "http://pidgeonholes.com/2023/01/two-poems-71/",
+   },  
+   {
     title: "Accidental Selife in the Photo of a Window Quote",
     journal: "The Florida Review",
     link: "https://floridareview.cah.ucf.edu/article/accidental-selfie-in-the-photo-of-a-window-quote/",
@@ -98,11 +104,6 @@ export const publishedConfig = [
     title: "Confession from Medusa's Head",
     journal: "Pleiades",
     isPrint: true,
-   },
-   {
-    title: "Deleted Scene: Each Time I'm Trans Enough",
-    journal: "DIALOGIST",
-    link: "https://dialogist.org/poetry/week-11-cd-eskilson",
    },
    {
     title: "Finsta of Icarus in Drag",
