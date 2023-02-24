@@ -61,6 +61,11 @@ export const translationsConfig = [
 export const publishedConfig = [
     
     {
+    title: "Shape Me as a Tree",
+    journal: "Mississippi Review",
+    isPrint: true,
+   }, 
+   {
     title: "Trans Panic Contrapuntal; Reversed House Cleansing",
     journal: "Pidgeonholes",
     link: "http://pidgeonholes.com/2023/01/two-poems-71/",
