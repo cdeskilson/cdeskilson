@@ -61,6 +61,12 @@ export const translationsConfig = [
 export const publishedConfig = [
     
     {
+    title: "In My Home City",
+    journal: "Protean",
+    link: "https://proteanmag.com/2023/03/15/in-my-home-city/",
+   }, 
+   
+   {
     title: "Shape Me as a Tree",
     journal: "Mississippi Review",
     isPrint: true,
@@ -109,11 +115,6 @@ export const publishedConfig = [
     title: "Confession from Medusa's Head",
     journal: "Pleiades",
     isPrint: true,
-   },
-   {
-    title: "Finsta of Icarus in Drag",
-    journal: "The Indianapolis Review",
-    link: "https://theindianapolisreview.com/finsta-of-icarus-in-drag/",
    },
    {
     title: "When Arkansas Bans Healthcare for Trans Youth",
