@@ -2,17 +2,17 @@ export const reviewsConfig = [
    {
     title: "Review of <i>Imagine Us, The Swarm</i> by Muriel Leung",
     journal: "The Arkansas International",
-    link: "https://www.arkint.org/reviews/tag/CD+Eskilson",
+    link: "https://www.arkint.org/online-only/imagine-us-the-swarm-capsule-review",
    },
    {
     title: "Review of <i>Hoarders</i> by Kate Durbin",
     journal: "The Arkansas International",
-    link: "https://www.arkint.org/reviews/tag/CD+Eskilson",
+    link: "https://www.arkint.org/online-only/hoarders-capsule-review",
    },
    {
     title: "Review of <i>Sho</i> By Douglas Kearney",
     journal: "The Arkansas International",
-    link: "https://www.arkint.org/reviews/sho-capsule-review",
+    link: "https://www.arkint.org/online-only/sho-capsule-review",
    },
 ]
 
