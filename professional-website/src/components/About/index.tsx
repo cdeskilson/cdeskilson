@@ -74,10 +74,10 @@ export default function About() {
       <BioContainer>
         <Bio>
           <BioItem>
-            CD Eskilson is a trans nonbinary poet, editor, and 
-            translator. Their work appears in <i>The Offing</i>,{" "}<i>Pleiades</i>,{" "}<i>Washington Square Review</i>,
+            CD Eskilson is a trans poet, editor, and 
+            translator. Their work appears in <i>The Offing</i>,{" "}<i>Pleiades</i>,{" "}<i>Hayden's Ferry Review</i>,
             {" "}<i>Ninth Letter</i>,{" "}<i>New Delta Review</i>,
-            {" "}and they are a <i>Best of the Net</i> and Pushcart Prize Nominee.
+            {" "}and they are a <i>Best of the Net</i>,{" "}<i>Best New Poets,</i> and Pushcart Prize Nominee.
           </BioItem>
           <BioItem>
             CD is assistant poetry editor for <i>Split Lip Magazine</i> and a member of the editorial board for <i>Exposition Review</i>, where they were previously poetry editor. They are currently an MFA candidate at the University of Arkansas where 
