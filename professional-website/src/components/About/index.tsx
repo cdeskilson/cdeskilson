@@ -75,7 +75,7 @@ export default function About() {
         <Bio>
           <BioItem>
             CD Eskilson is a trans poet, editor, and 
-            translator. Their work appears in <i>The Offing</i>,{" "}<i>Pleiades</i>,{" "}<i>Hayden's Ferry Review</i>,
+            translator. Their work appears in <i>The Offing</i>,{" "}<i>Pleiades</i>,{" "}<i>Haydens Ferry Review</i>,
             {" "}<i>Ninth Letter</i>,{" "}<i>New Delta Review</i>,
             {" "}and they are a <i>Best of the Net</i>,{" "}<i>Best New Poets,</i> and Pushcart Prize Nominee.
           </BioItem>
