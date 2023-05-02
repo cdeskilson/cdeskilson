@@ -45,6 +45,11 @@ export const awardsConfig = [
 ]
 
 export const translationsConfig = [
+    {
+    title: "Two Poems by Edith Södergran",
+    journal: "Hayden's Ferry Review",
+    isPrint: true,
+   }, 
    {
     title: "“Love” and Other Poems",
     journal: "The Offing",
