@@ -64,13 +64,16 @@ export const translationsConfig = [
 
 
 export const publishedConfig = [
-    
     {
+    title: "Cygnus Speaks to Phaeton",
+    journal: "Poet Lore",
+    isPrint: true,
+   },    
+   {
     title: "In My Home City",
     journal: "Protean",
     link: "https://proteanmag.com/2023/03/15/in-my-home-city/",
-   }, 
-   
+   },  
    {
     title: "Shape Me as a Tree",
     journal: "Mississippi Review",
@@ -127,18 +130,8 @@ export const publishedConfig = [
     link: "http://ndrmag.org/poetry/2021/12/when-arkansas-bans-healthcare-for-trans-youth/",
    },
    {
-    title: "Essay on Witchcraft; Fan Mail for the Headless Horseman",
-    journal: "Minnesota Review",
-    isPrint: true,
-   },
-   {
     title: "I Still Haven't Seen The Fly",
     journal: "Cotton Xenomorph",
     link: "https://www.cottonxenomorph.com/journal/2021/11/20/i-still-havent-seen-the-fly",
-   },
-   {
-    title: "Draft Message to My Sibling After Top Surgery; Since Moving From the Beach",
-    journal: "HAD",
-    link: "https://www.havehashad.com/web_features/two-poems-80aa462d-0458-4b72-aeb4-707ff8837fec",
    },
 ]
