@@ -17,8 +17,17 @@ export const reviewsConfig = [
 ]
 
 export const awardsConfig = [
-    {
-    title: "Lily Peter Fellowship in Translation ",
+     {
+    title: "C.D. Wright/Academy of American Poets Prize",
+    year: "2023",
+   },
+  
+   {
+    title: "James T. Whitehead Award for Poetry",
+    year: "2023",
+   },
+   {
+    title: "Lily Peter Fellowship in Translation",
     year: "2022",
    },
    {
