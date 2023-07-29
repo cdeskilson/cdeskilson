@@ -76,11 +76,11 @@ export default function About() {
           <BioItem>
             CD Eskilson is a trans poet, editor, and 
             translator. Their work appears in <i>The Offing</i>,{" "}<i>Pleiades</i>,{" "}<i>Hayden's Ferry Review</i>,
-            {" "}<i>Ninth Letter</i>, and{" "}<i>New Delta Review</i>, among others. They are a recipient of the C.D. Wright/Academy of American Poets Prize, as well as a <i>Best of the Net</i>,{" "}<i>Best New Poets,</i> and Pushcart Prize nominee. 
+            {" "}<i>Ninth Letter</i>, and{" "}<i>New Delta Review</i>, among others. They are a recipient of the C.D. Wright/Academy of American Poets Prize, as well as a <i>Best of the Net</i>,{" "}<i>Best New Poets,</i> and Pushcart Prize nominee. Their debut poetry collection,{" "}<i>Scream / Queen</i>{" "}, is forthcoming from Acre Books in 2025. 
           </BioItem>
           <BioItem>
             CD is assistant poetry editor for <i>Split Lip Magazine</i> and a member of the editorial board for <i>Exposition Review</i>, where they were previously poetry editor. They are currently an MFA candidate at the University of Arkansas where 
-            they've received the Walton Family Fellowship in Poetry and Lily Peter Fellowship in Translation. They also work as the Series Coordinator for the Open Mouth Literary Center. Once, they 
+            they've received the Walton Family Fellowship in Poetry and Lily Peter Fellowship in Translation. They have also worked as the Series Coordinator for the Open Mouth Literary Center. Once, they 
             were in a punk band. 
           </BioItem>
         </Bio>
